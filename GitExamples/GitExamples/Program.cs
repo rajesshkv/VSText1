@@ -10,7 +10,7 @@ namespace GitExamples
     {
         static void Main(string[] args)
         {
-
+            //code added in the vs
         }
     }
 }
