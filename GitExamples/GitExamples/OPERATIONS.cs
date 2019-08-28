@@ -6,13 +6,11 @@ using System.Threading.Tasks;
 
 namespace GitExamples
 {
-    class Program
+    public class OPERATIONS
     {
-        static void Main(string[] args)
+     public int Add(int x,int y)
         {
-            //code added in the vs
-          // coded added in git
-          //fjgosdhghghgeghohguoheuoghuoer
+            return x + y;
         }
     }
 }
